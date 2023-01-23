@@ -22,9 +22,9 @@ export const Main = (renderCount) => {
             Our collections include a wide range of shoes for men, women, and
             children.
           </p>
-          <a href="#" className={main.btn1}>
+          <button className={main.btn1}>
             Shop Now
-          </a>
+          </button>
         </div>
         <div className={main.bgimg}></div>
       </div>
@@ -56,7 +56,7 @@ export const Main = (renderCount) => {
         <div className={main.owlbox}>
           <h1>Be your Own Level</h1>
           <p>The right shoes can take any outfit from basic to stylish with just a few steps. At our shoe store, we have a wide variety of stylish shoes to help you create the perfect look. From contemporary sneakers to classic loafers, we have something to match all tastes and occasions. Our shoes are designed to be comfortable, durable, and fashionable, so you can look and feel your best no matter what you’re wearing.</p>
-            <a className={main.btn1} href="#">Shop Now</a>
+            <button className={main.btn1}>Shop Now</button>
         </div>
       </div>
       <div className={main.trindeng}>

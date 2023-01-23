@@ -24,7 +24,7 @@ color: #FFFFFF;
   display: flex;
   justify-content: space-between;
 }
-.box4 a{
+.box4 button{
     margin-right: 150px;
   display: block;
   font-family: 'Syne';
@@ -33,6 +33,9 @@ font-weight: 500;
 font-size: 18px;
 line-height: 31px;
 color: #FFFFFF;
+border: none;
+background-color: transparent;
+cursor: pointer;
 
 }
 .item h3{

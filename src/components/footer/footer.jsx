@@ -15,10 +15,10 @@ export const Footer = () => {
         <li className={footer.item}>
           <h3>Links</h3>
           <div className={footer.box4}>
-          <a href="/index">Home</a>
-          <a href="/index">About</a>
-          <a href="/index">Cart Page</a>
-          <a href="/index">Contact Us</a>
+          <button>Home</button>
+          <button>About</button>
+          <button>Cart Page</button>
+          <button>Contact Us</button>
 
           </div>
         </li>
@@ -26,18 +26,18 @@ export const Footer = () => {
           <h3>Contact</h3>
           <div className={footer.box4}>
 
-          <a href="/index">Email</a>
-          <a href="/index">LinkedIn</a>
-          <a href="/index">Instagram</a>
-          <a href="/index">Twitter</a>
+          <button>Email</button>
+          <button>LinkedIn</button>
+          <button>Instagram</button>
+          <button>Twitter</button>
           </div>
         </li>
         <li className={footer.item}>
           <h3>Collection</h3>
           <div className={footer.box4}>
-          <a href="/index">Men</a>
-          <a href="/index">Women</a>
-          <a href="/index">Children</a>
+          <button>Men</button>
+          <button>Women</button>
+          <button>Children</button>
 
           </div>
         </li>

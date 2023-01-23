@@ -63,3 +63,18 @@ top: 62px;
   padding: 3px 4px;
   cursor: pointer;
 }
+.home, .btn5{
+  transition: ease 0.8s;
+}
+.btn5{
+  cursor: pointer;
+  background-color: transparent;
+  border: transparent;
+  margin-left: 21px;
+}
+.home:hover{
+  transform: scale(0.9);
+}
+.btn5:hover{
+  transform: scale(0.9);
+}
